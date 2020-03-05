@@ -2963,7 +2963,7 @@ h6 {
     display: block;
     border-bottom: 1px solid #ededed33;
     border-radius: 0px;
-    color: #fff; }
+    color: #000; }
 
   .header_area .navbar .search {
     margin-left: 0px; }
@@ -2985,11 +2985,11 @@ h6 {
 
   .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 40px;
-    color: #fff; }
+    color: #000; }
 
   .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 40px;
-    color: #fff; }
+    color: #000; }
 
   .header_area.white_menu .navbar .nav .nav-item .nav-link {
     color: #222; }
